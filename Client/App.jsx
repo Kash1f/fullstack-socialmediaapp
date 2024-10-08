@@ -3,7 +3,7 @@ import React from 'react'
 
 const App = () => {
   return (
-    <View>
+    <View style={{marginTop:30}}>
       <Text>App</Text>
     </View>
   )
